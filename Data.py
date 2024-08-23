@@ -20,13 +20,10 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("Support Channel", url="https://t.me/StarkBotsChat")],
     ]
 
     # Help Message
@@ -34,9 +31,8 @@ By @StarkBots
 Everything is self explanatory after you add a channel.
 To add a channel use keyboard button 'Add Channels' or alternatively for ease, use `/add` command
 
-✨ **Available Commands** ✨
+**Available Commands**
 
-/about - About The Bot
 /help - This Message
 /start - Start the Bot
 
