@@ -15,7 +15,7 @@ By @TG_SUPPORT
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
+        [InlineKeyboardButton(text="Back", callback_data="home")],
     ]
 
     # Rest Buttons
