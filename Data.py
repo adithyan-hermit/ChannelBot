@@ -23,7 +23,7 @@ By @TG_SUPPORT
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
         ],
-        [InlineKeyboardButton("Support Channel", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("Support Channel", url="https://t.me/PRO_SUPPORT")],
     ]
 
     # Help Message
