@@ -10,7 +10,7 @@ Welcome to {}
 
 You can use me to manage channels with tons of features. Use below buttons to learn more !
 
-By @StarkBots
+By @TG_SUPPORT
     """
 
     # Home Button
@@ -43,7 +43,7 @@ Alternative Commands
     """
 
     # About Message
-    ABOUT = """
+    ABOUT = """at
 **About This Bot** 
 
 A telegram channel automation bot by @StarkBots
